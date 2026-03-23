@@ -1,2 +1,16 @@
-# antigravity-todo-app
-Todo List Web App created as part of Mindmatrix Internship using Google Antigravity
+# Antigravity Todo App
+
+This project was created as part of the Mindmatrix Internship using Google Antigravity.
+
+## Features
+- Add tasks
+- Delete tasks
+- Simple Todo List interface
+
+## Technologies Used
+- Python
+- Flask
+- HTML
+
+## Author
+Manasa M
